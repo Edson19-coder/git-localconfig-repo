@@ -1,6 +1,6 @@
 spring:
   config:
-    import: "optional:configserver:"
+    import: "optional:configserver:http://localhost:8888"
 
 minimum: 2
-maximum: 998
+maximum: 999
