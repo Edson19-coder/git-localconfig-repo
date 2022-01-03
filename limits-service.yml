@@ -1,6 +1,2 @@
-spring:
-  config:
-    import: "optional:configserver:"
-
 minimum: 2
 maximum: 999
